@@ -1,0 +1,164 @@
+{
+  "productos": [
+    {
+      "id": 1,
+      "nombre": "Smartphone Galaxy S21",
+      "stock": 45,
+      "categoria": "Móviles",
+      "descripcion": "Teléfono inteligente de última generación con cámara de alta resolución",
+      "precio": 799.99
+    },
+    {
+      "id": 2,
+      "nombre": "Laptop MacBook Air",
+      "stock": 30,
+      "categoria": "Portátiles",
+      "descripcion": "Ligera y potente, perfecta para trabajo y entretenimiento",
+      "precio": 1099.0
+    },
+    {
+      "id": 3,
+      "nombre": "Auriculares Inalámbricos Sony WH-1000XM4",
+      "stock": 60,
+      "categoria": "Audio",
+      "descripcion": "Auriculares con cancelación de ruido y sonido de alta calidad",
+      "precio": 349.99
+    },
+    {
+      "id": 4,
+      "nombre": "Tablet iPad Pro",
+      "stock": 25,
+      "categoria": "Tablets",
+      "descripcion": "Potente tablet para profesionales creativos",
+      "precio": 799.0
+    },
+    {
+      "id": 5,
+      "nombre": "Smart TV LG OLED 55\"",
+      "stock": 15,
+      "categoria": "Televisores",
+      "descripcion": "Televisor inteligente con calidad de imagen excepcional",
+      "precio": 1499.99
+    },
+    {
+      "id": 6,
+      "nombre": "Cámara Mirrorless Sony Alpha A7 III",
+      "stock": 20,
+      "categoria": "Fotografía",
+      "descripcion": "Cámara profesional sin espejo con sensor full-frame",
+      "precio": 1999.99
+    },
+    {
+      "id": 7,
+      "nombre": "Consola PlayStation 5",
+      "stock": 10,
+      "categoria": "Videojuegos",
+      "descripcion": "La última consola de Sony con gráficos de nueva generación",
+      "precio": 499.99
+    },
+    {
+      "id": 8,
+      "nombre": "Impresora Multifunción HP OfficeJet Pro",
+      "stock": 40,
+      "categoria": "Oficina",
+      "descripcion": "Impresora, escáner y copiadora todo en uno para uso profesional",
+      "precio": 199.99
+    },
+    {
+      "id": 9,
+      "nombre": "Monitor Gaming ASUS ROG Swift 27\"",
+      "stock": 35,
+      "categoria": "Monitores",
+      "descripcion": "Monitor de alta frecuencia de actualización para gamers",
+      "precio": 699.99
+    },
+    {
+      "id": 10,
+      "nombre": "Tarjeta Gráfica NVIDIA GeForce RTX 3080",
+      "stock": 5,
+      "categoria": "Componentes PC",
+      "descripcion": "Potente GPU para gaming y renderizado profesional",
+      "precio": 699.99
+    },
+    {
+      "id": 11,
+      "nombre": "Router WiFi 6 NETGEAR Nighthawk",
+      "stock": 50,
+      "categoria": "Redes",
+      "descripcion": "Router de última generación para conexiones ultrarrápidas",
+      "precio": 249.99
+    },
+    {
+      "id": 12,
+      "nombre": "Disco Duro Externo WD 4TB",
+      "stock": 75,
+      "categoria": "Almacenamiento",
+      "descripcion": "Almacenamiento portátil de gran capacidad",
+      "precio": 119.99
+    },
+    {
+      "id": 13,
+      "nombre": "Teclado Mecánico Corsair K95 RGB",
+      "stock": 55,
+      "categoria": "Periféricos",
+      "descripcion": "Teclado gaming de alta gama con interruptores Cherry MX",
+      "precio": 169.99
+    },
+    {
+      "id": 14,
+      "nombre": "Smartwatch Apple Watch Series 7",
+      "stock": 40,
+      "categoria": "Wearables",
+      "descripcion": "Reloj inteligente con monitor de salud y fitness",
+      "precio": 399.99
+    },
+    {
+      "id": 15,
+      "nombre": "Altavoz Inteligente Amazon Echo",
+      "stock": 70,
+      "categoria": "Hogar Inteligente",
+      "descripcion": "Altavoz con asistente virtual Alexa integrado",
+      "precio": 99.99
+    },
+    {
+      "id": 16,
+      "nombre": "Webcam Logitech C920",
+      "stock": 65,
+      "categoria": "Accesorios",
+      "descripcion": "Cámara web HD para videoconferencias y streaming",
+      "precio": 79.99
+    },
+    {
+      "id": 17,
+      "nombre": "Batería Externa Anker PowerCore",
+      "stock": 90,
+      "categoria": "Accesorios Móviles",
+      "descripcion": "Powerbank de 20000mAh para cargar dispositivos en movimiento",
+      "precio": 49.99
+    },
+    {
+      "id": 18,
+      "nombre": "Drone DJI Mavic Air 2",
+      "stock": 15,
+      "categoria": "Drones",
+      "descripcion": "Drone con cámara 4K para fotografía y video aéreo",
+      "precio": 799.99
+    },
+    {
+      "id": 19,
+      "nombre": "Lector de Libros Electrónicos Kindle Paperwhite",
+      "stock": 55,
+      "categoria": "E-readers",
+      "descripcion": "Lector de e-books con pantalla de alta resolución e iluminación",
+      "precio": 129.99
+    },
+    {
+      "id": 20,
+      "nombre": "Proyector Portátil Epson Home Cinema",
+      "stock": 20,
+      "categoria": "Proyectores",
+      "descripcion": "Proyector Full HD para cine en casa",
+      "precio": 699.99
+    }
+  ]
+}
