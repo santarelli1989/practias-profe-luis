@@ -6,7 +6,7 @@ const productos = data;
 
 
 function chequearStock(stock) {
-  return stock > 20 ? chalk.bgBlue.white(stock) : chalk.bgRed(stock);
+  return stock > 20 ? chalk.bgBlue.white(stock) : chalk.bgMagenta(stock);
 }
 const info = productos.map((producto) => {
   return [
@@ -38,3 +38,11 @@ const precioTotal = productos.reduce((price, item)=>{
   return   price +  item.precio * item.stock
 }, 0);
 console.log(precioTotal)
+
+//metodo find
+// devolveremos el primer elemento del stock mas bajo de la tabla
+const peligro = productos.find ((bajo)=>{
+  return bajo.stock < 6
+})
+console.log(peligro)
+
